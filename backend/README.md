@@ -80,3 +80,4 @@ The server will start on http://localhost:5000 by default.
 2. Implement business logic in the `services/` directory
 3. Create API routes in the `api/` directory
 4. Register new blueprints in `app.py`
+5. Add tests in the `tests/` directory
